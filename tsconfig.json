@@ -13,7 +13,7 @@
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "emitDeclarationOnly": true,
-    "types": ["jest","node","@type/jest"]
+    "types": ["jest","node"]
   },
   "ts-node": {
     "esm": true,
